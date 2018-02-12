@@ -1,0 +1,7 @@
+.animte .ng-enter{
+	transition: 0.3s linear all;
+	opacity: 0;
+}
+.animte .ng-enter-active{
+	opacity: 1;
+}
